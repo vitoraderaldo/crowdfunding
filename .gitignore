@@ -1,0 +1,6 @@
+.next
+.scannerwork
+etherum/build
+ignore
+node_modules
+package-lock.json
